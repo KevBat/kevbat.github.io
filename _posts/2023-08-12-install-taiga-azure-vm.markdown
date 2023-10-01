@@ -21,6 +21,13 @@ Changes in `docker-compose.yml`:
 
 
 
+### Adding additional configuration
+
+
+
+
+
+
 Jekyll requires blog post files to be named according to the following format:
 
 `YEAR-MONTH-DAY-title.MARKUP`
